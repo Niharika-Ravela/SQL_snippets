@@ -16,8 +16,8 @@ This repo includes examples using:
 ## 📁 Folder Structure  
 <pre>
 SQL_snippets/
-├── joins/
-├── ctes/
+├── Joins/
+├── CTE/
 ├── window_functions/
 ├── data_cleaning/
 ├── analytics_queries/
