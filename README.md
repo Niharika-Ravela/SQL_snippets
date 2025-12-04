@@ -13,25 +13,17 @@ This repo includes examples using:
 - **Subqueries**
 - **Stored Procedures**
 
---- 
 ## 📁 Folder Structure  
 \`\`\`  
 SQL_snippets/  
-├── joins/  
-│   └── inner_join.sql  
+├── joins/   
 ├── ctes/  
-│   └── basic_cte.sql  
 ├── window_functions/  
-│   └── rank_function.sql  
 ├── data_cleaning/  
-│   └── remove_duplicates.sql  
 ├── analytics_queries/  
-│   └── department_payroll_kpis.sql  
+├── sample_datasets/
 └── README.md  
 \`\`\`
-
-
----
 
 ## 📬 Contact
 LinkedIn: https://www.linkedin.com/in/niharikaravela  
