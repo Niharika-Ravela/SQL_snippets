@@ -16,6 +16,7 @@ This repo includes examples using:
 ---
 
 ## 📁 Folder Structure
+'''
 SQL_snippets/
 ├── joins/
 │ └── inner_join.sql
@@ -29,7 +30,7 @@ SQL_snippets/
 │ └── department_payroll_kpis.sql
 └── README.md
 
-
+'''
 ---
 
 ## 🧠 Topics Included
