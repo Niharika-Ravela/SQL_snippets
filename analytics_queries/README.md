@@ -1,1 +1,4 @@
-
+- Payroll reconciliation
+- Grant expenditure analysis
+- Invoice anomaly detection
+- Equipment distribution KPI
