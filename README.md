@@ -14,8 +14,7 @@ This repo includes examples using:
 - **Stored Procedures**
 
 ## 📁 Folder Structure  
-\`\`\`  
-
+<pre>
 SQL_snippets/
 ├── joins/
 ├── ctes/
@@ -24,10 +23,10 @@ SQL_snippets/
 ├── analytics_queries/
 ├── sample_datasets/
 └── README.md
-
-\`\`\`
+</pre>
 
 ## 📬 Contact
-LinkedIn: https://www.linkedin.com/in/niharikaravela  
+[LinkedIn](https://www.linkedin.com/in/niharikaravela)
+
 Email: niharikaravela3@gmail.com
 
