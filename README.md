@@ -11,7 +11,7 @@ This repo includes examples using:
 - **Data Cleaning & Transformation**
 - **Case-Based Logic**
 - **Subqueries**
-- **Stored Procedures (optional)**
+- **Stored Procedures**
 
 ---
 
