@@ -13,11 +13,8 @@ This repo includes examples using:
 - **Subqueries**
 - **Stored Procedures**
 
----
-
-\`\`\`markdown  
+--- 
 ## 📁 Folder Structure  
-\`\`\`  
 \`\`\`  
 SQL_snippets/  
 ├── joins/  
