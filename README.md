@@ -13,17 +13,13 @@ This repo includes examples using:
 - **Subqueries**
 - **Stored Procedures**
 
-## 📁 Folder Structure  
-<pre>
-SQL_snippets/
-├── Joins/
-├── CTE/
-├── window_functions/
-├── data_cleaning/
-├── analytics_queries/
-├── sample_datasets/
-└── README.md
-</pre>
+## 📁 Folders
+
+- `joins/` – basic + intermediate join examples
+- `ctes/` – single, multi-step, and recursive CTE patterns
+- `window_functions/` – ranking, running totals, moving averages
+- `analytics_queries/` – real-world cases (payroll, grants, invoices, equipment KPIs)
+- `sample_datasets/` – mock tables used in examples
 
 ## 📬 Contact
 [LinkedIn](https://www.linkedin.com/in/niharikaravela)
