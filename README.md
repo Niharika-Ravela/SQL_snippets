@@ -15,14 +15,15 @@ This repo includes examples using:
 
 ## 📁 Folder Structure  
 \`\`\`  
-SQL_snippets/  
-├── joins/   
-├── ctes/  
-├── window_functions/  
-├── data_cleaning/  
-├── analytics_queries/  
+
+SQL_snippets/
+├── joins/
+├── ctes/
+├── window_functions/
+├── data_cleaning/
+├── analytics_queries/
 ├── sample_datasets/
-└── README.md  
+└── README.md
 
 \`\`\`
 
